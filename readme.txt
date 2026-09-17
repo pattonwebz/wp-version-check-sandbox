@@ -1,3 +1,3 @@
 === Sandbox ===
-Tested up to: 7.1
+Tested up to: 6.0
 Stable tag: 1.0
